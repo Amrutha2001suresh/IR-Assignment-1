@@ -1,0 +1,1 @@
+Sports analytics uses data science and machine learning. Teams analyze player performance and game statistics. Predictive models help coaches make strategic decisions.

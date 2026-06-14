@@ -1,0 +1,1 @@
+Healthcare organizations use machine learning to diagnose diseases. Artificial intelligence helps doctors analyze medical images. Deep learning models can identify patterns in patient records and improve treatment recommendations.
